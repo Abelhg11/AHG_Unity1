@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638023959955749038
-    m_Hash: 447771862
+      ticks: 638030038603392525
+    m_Hash: 225883939
   m_LockFileStatus:
     m_FilePath: C:/Users/al427986/Documents/GitHub/AHG_Unity1/Ruby_AHG/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638023960395193226
-    m_Hash: 2969975552
+      ticks: 638030038603397558
+    m_Hash: 3174864239
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
